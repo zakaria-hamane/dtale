@@ -127,7 +127,7 @@
     "es6-promise": "4.2.8",
     "expose-loader": "2.0.0",
     "highlight.js": "10.7.2",
-    "i18next": "20.2.4",
+    "i18next": "20.3.1",
     "immutable": "4.0.0-rc.12",
     "jquery": "3.6.0",
     "json-loader": "0.5.7",
