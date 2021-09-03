@@ -20,3 +20,4 @@ statsmodels
 streamlit
 xarray
 xlrd
+pillow>=8.3.2 # not directly required, pinned by Snyk to avoid a vulnerability
