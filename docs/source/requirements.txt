@@ -15,7 +15,7 @@ pyarrow
 pyyaml
 scipy
 scikit-learn
-sphinx==1.6.7
+sphinx==3.0.4
 statsmodels
 streamlit
 xarray
