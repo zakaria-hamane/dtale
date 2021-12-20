@@ -31,7 +31,7 @@ matplotlib; python_version > '3.6'
 missingno
 networkx==2.2; python_version < '3.0'
 networkx; python_version >= '3.0'
-numpy==1.16.6; python_version < '3.0'
+numpy==1.22.0rc1; python_version < '3.0'
 numpy; python_version >= '3.0'
 openpyxl==2.6.4; python_version < '3.0'
 openpyxl; python_version >= '3.0'
