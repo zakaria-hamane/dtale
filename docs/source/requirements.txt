@@ -8,7 +8,7 @@ markdown
 matplotlib
 missingno
 nbsphinx==0.4.3
-nbconvert<=6.0.2
+nbconvert<=6.3.0b0
 pandas
 prompt-toolkit<2.1.0,>=2.0.0
 pyarrow
