@@ -159,7 +159,7 @@
     "react-wordcloud": "1.2.7",
     "redux": "4.1.0",
     "redux-thunk": "2.3.0",
-    "serialize-javascript": "5.0.1",
+    "serialize-javascript": "6.0.2",
     "string.prototype.startswith": "1.0.0",
     "styled-components": "5.3.0",
     "uuid": "8.3.2",
