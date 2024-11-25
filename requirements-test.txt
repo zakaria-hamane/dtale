@@ -6,3 +6,4 @@ nbconvert
 pytest
 pytest-cov
 pytest-server-fixtures
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
